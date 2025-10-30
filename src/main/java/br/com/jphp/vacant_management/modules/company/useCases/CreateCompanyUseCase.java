@@ -1,8 +1,8 @@
-package br.com.jphp.vacant_management.modules.company.entities.useCases;
+package br.com.jphp.vacant_management.modules.company.useCases;
 
 import br.com.jphp.vacant_management.exceptions.UserFoundException;
 import br.com.jphp.vacant_management.modules.company.entities.CompanyEntity;
-import br.com.jphp.vacant_management.modules.company.entities.repositories.CompanyRepository;
+import br.com.jphp.vacant_management.modules.company.repositories.CompanyRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

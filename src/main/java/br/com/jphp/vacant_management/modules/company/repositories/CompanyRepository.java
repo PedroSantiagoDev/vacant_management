@@ -1,4 +1,4 @@
-package br.com.jphp.vacant_management.modules.company.entities.repositories;
+package br.com.jphp.vacant_management.modules.company.repositories;
 
 import br.com.jphp.vacant_management.modules.company.entities.CompanyEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
